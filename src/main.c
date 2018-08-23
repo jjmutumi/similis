@@ -1,6 +1,9 @@
 #include "display.h"
 #include "container.h"
 
+/**
+ * Version 0.0.1
+ */
 void
 main(int argc, char** argv)
 {
